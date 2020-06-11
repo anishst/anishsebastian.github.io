@@ -1,9 +1,73 @@
 ANISH SEBASTIAN
 -------------------------
 
-You can use the [editor on GitHub](https://github.com/anishst/anishst.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Qualifications
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 11 years of experience with system testing methodologies and system or software development life cycle (SDLC)
+- 11 years of federal government consulting experience
+- 8 years of Experience writing Automation Test Scripts using Python with Selenium
+- Demonstrable experience in writing clean automation code quickly
+- Experience with analyzing and documenting software test results
+- Creative, independent, self-motivated and excited to learn new technologies
+- Experience with designing, implementing, tailoring, and documenting automated test frameworks used on testing projects
+- Experience with writing automated user interface tests, including Selenium, HP UFT
+- 4+ years of experience with developing automated test scripts with industry tools, including Selenium, HP Quick Test Professional and Unified Functional Test
+- Experience in working closely with development or requirements team to coordinate and test applications
+- Experience with documenting complex workflow and testing procedures
+- Ability to analyze test results, document conclusions and make recommendations as supported by such analysis
+- Ability to verify that each functional component of the software project follows a defined process which is in conformance with contractual requirements
+- Ability to adapt to dynamic, fast-paced environments
+- Ability to be a team player and drive collaborative efforts to improve product quality
+- Ability to work in the U.S. and obtain Public Trust Security Clearance
+- Ability to work both independently, and in a distributed collaborative team in different time zones with adjusting priorities and meet deadlines.
+- Ability to communicate effectively verbally and in writing. 
+- Able to follow instructions and complete tasks in a timely manner.
+- Well organized and be able to multi-task
+- Strong oral and written communication skills
+- Detailed orientated
+- Function effectively as part of a team and can work independently.
+- Ability to set priorities and rearrange schedules to address unexpected issues and perform baseline, component, and regression-level testing to support software development efforts
+
+
+## Roles
+
+- Conducts functional testing, end to end testing with interface partners, performance and other non-functional testing, user acceptance testing support, Operations & Maintenance (O&M) testing
+- Demonstrate expertise in identifying and preventing defects in products and services on a continuous basis and work with software engineers, system engineers, and DevOps engineers to correct any defects found.
+- Analyze the design, development, and execution of test cases and test procedures. Identify areas for functional test automation and use tools, including Selenium, QTP/UFT, and Rational Robot. Leverage expertise in various testing phases, including functional, integration, data migration, system, and user acceptance testing. Create test reports after completion of tests and document defects found with any information required for a developer to recreate and fix the problem. Assist with defining the test schedule, including establishing priorities and tasking for junior-level testers.
+- Participate in the development and maintenance of test cases, test approaches, and test plans, conduct manual functional testing, regression testing, system integration testing, and support user acceptance testing, and report issues found during the test life cycle.
+- Assist with software application troubleshooting and technical diagnosis. Identify changes in the support of continuous improvement of the current test process.
+- Conducted Business End-to-End testing by working with interfacing partnerts to determine various dependencies of the test application as well as ensuring that accurate information is communicated between various system components
+- Designs, develops, and implements both manual and automated testing procedures for agile and waterfall software development methodologies
+- Actively participates in all phases of the project lifecycle and works closely with a variety of stakeholders to ensure that business requirements are met and risk in software is known
+- Prioritizes and successfully completes multiple tasks to support system releases
+- Conducted Business End-to-End testing by working with interfacing partnerts to determine various dependencies of the test application as well as ensuring that accurate information is communicated between various system components
+- Developed and used database queries to input test data and verify test results
+- Compiles data and defines changes required in testing environments, test procedures/processes and new testing requirements
+- Introduced several process improvement into the testing cycle and authored multiple Knowledge Base/How-To/FAQ documents which helped the team, especially new testers, onboard faster
+- Maintains and troubleshoot issues with test environments, data files, and setup issues as it relates to manual testing and automated testing
+- Updates and maintains test automation framework written in VBScript
+- Manages OTCnet Zone, the firms intranet, that is built on Microsoft Office 365 cloud-based platform
+- In-depth knowledge of HP’s ALM tools including HP ALM 11/12 (aka Quality Center)  and HP UFT 12 (aka Quick Test Professional or QTP)
+- Prepares test machines using backup images
+- Led migration of HP ALM 11 TO HP ALM 12
+- Actively participated all kinds of Scrum meetings including Daily stand up, Sprint planning meeting, sprint review meeting and retrospective meeting.
+- Analyzed Epic document, Business Requirements Document (BRD), and Design Documents and developed Test cases and Test scripts for the application under test.
+- Worked with Product Owner and Development Team in order to prioritize User stories and assign Story Points and to identify sprint backlog.
+- Analyzed business requirements, business rules, created Test Plans and designed Test Cases for projects.
+- Reviewed and updated Requirements Traceability Matrix (RTM) that satisfies project’s testing acceptance criteria
+- Performed Backend Testing by executing SQL queries against Oracle and SQL database.
+- Extensively used SQL to perform Data Integrity testing.
+- Preparation and review of End-to-End Test Scenarios, Test Cases, Coverage Matrix and Test Data.
+- Analyzed system requirements specifications, developed Test Plans, Test Cases and Test Data for testing the Functionality, GUI, Usability, User Acceptance Criteria’s with both Positive and Negative scenarios. Focused on logical scenarios of the application
+- Used HP ALM to define requirements, design test steps, run test set, track reports and identify Bugs.
+
+## Leadership
+
+- organized and delegated test planning tasks such as test case development, test case peer reviews, and test case finalization tasks to her peers and junior staff. Authored several test plans delivered and received sign off from the Fiscal Service client
+- During the test execution phase, applied similar tactics for test execution and defect management tasks. Led several daily test status call with the testing, development, requirements, and operations work-streams to review new issues, scope changes, and upcoming deployments. During test execution, coordinated multiple automated stability and regression test executions with the automation test team throughout the release. My efforts resulted in successfully executing all system and regression test cases, and resolution of  defects
+- Led the several sprint closeout meetings with project work-streams and the Fiscal Service client to review the summary of test execution, defects, and user story completion, as well as a live demonstration of the new features of the application implemented in the release. Engaged others on the test team to provide the demonstration. Authored and delivered the Requirements Traceability Matrix (RTM) and the System Test Results Report and received sign-off from the client.
+- Leading several test efforts and kept the test team motivated and on track which resulted in a successful and on schedule test completion. The project team received praise from the Citi development team manager and the OTCnet program manager for their dedication and great work
+- Lead automation team to implement automation framework suing Python Selenium framework and running using Jenkins and pipeline scripts
 
 ## Python/Selnium Related Duties:
 
@@ -24,31 +88,59 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Participate in SCRUM Team meetings, including grooming and planning meetings
 - Wrote Datadriven, Cross Browser automation test cases using PyTest/TestNG frameworks.
 
+## BDD
 
-```markdown
-Syntax highlighted code block
+- familiar with Behavior Driven Development (BDD) and writing the acceptance criteria’s in a feature file using gherkin language
+- familiar with creating step defintions from a feature file with behave python test framework
 
-# Header 1
-## Header 2
-### Header 3
+## Web Service Testing
 
-- Bulleted
-- List
-
+- Conducts SOAP API testing using SoapUI tool
+- Crated several test suites and used property transfer to pass values between test cases
+- Familiar with Postman for rest service API testing.
 
 
-**Bold** and _Italic_ and `Code` text
+## CI/CD Tools
 
-[Link](url) and ![Image](src)
-```
-![Image](https://images.unsplash.com/photo-1540270776932-e72e7c2d11cd?ixlib=rb-1.2.1&dpr=1&auto=format&fit=crop&w=416&h=312&q=60)
+in progress of learning Docker/Jenkins
+Executed automated test suites on multiple platforms using SeleniumGrid and Maven scripts.
+Created pom.xml in APACHEMAVEN and run the builds using Continuous Integration tool Jenkins.
+Develop, Maintain and support Continuous Integration framework based on Jenkins
+Expert in implementing automation architecture using Python, PyTest, Java, JUnit, Selenium WebDriver, Jenkins
+Created Docker files and built different containers needed for testing using Docker file generated images
+Used Docker Compose YAML files to bring up Selenium Standalone/Grid related containers for running framework test scripts
+Experience in writing Groovy Scripts for Jenkins pipeline job
+Used Groovy scripts for CI/CD pipeline builds, and actively involved in the entire Pipeline setups and Jenkins configurations
+Provide demo to team on CI/CD pipeline and its features
+Experienced in working with version control systems like GIT and used Source code management client tools like GitBash, GitHub, Git Lab.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Web Related
 
-### Jekyll Themes
+- Experience with creating front-end applications using JavaScript/JQuery, HTML5, and CSS3
+- Experience with developing applications or services that read, write, and store data from relational databases
+- Experience with Flask web framework
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anishst/anishst.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Duties
 
-### Support or Contact
+- Review user application system requirements documentation to design, define, and document unit and application test plans, transform test plans into test scripts, and execute scripts
+- Establish meetings, create schedules, and reports and analysis as needed for the project
+- Develop test data to be used in performing required tests
+- Responsible for coaching and reviewing the work of lower level technical staff.
+- Identifies gaps in documentation, function  test coverage and knowledge; recommends corrective actions
+- Communicate with Project Managers, Developers, and Business Leads to ensure all are fully informed of testing status and application deviations from documented user requirement
+- Champion the implementation of test automation practices, including the development of the test automation framework.
+- Train junior staff on usage of framework
+- Provide technical writing support by authoring documents, including user guides, software test cases, and software test plans.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## SharePoint
+
+- Provided training for SharePoint functionalities to ensure positive initial experience.
+- Assisted with the integration of MS Project 2007 Server with MS Office SharePoint Server 2007
+- As a SharePoint admin, customized and configured several portal sites for various projects. Created custom lists and web parts for different teams; Maintained security and permissions to control access to SharePoint for both intranet and extranet users. Created and maintained knowledgebase documentation for MOSS maintenance and training manuals.
+
+## JIRA
+
+- Lead migration of requirements from JAMA software to JIRA
+- Assisted with customization of JIRA workflows , fields , screens , permissions , notifications and issue type schemes.
+- Creates and maintains filters and dashbaords for easy acess to data during release testing
+
