@@ -1,5 +1,8 @@
 ANISH SEBASTIAN
 -------------------------
+## Summary
+
+Senior Software Tester with over 11 years of experience in manual and automated testing on federal client projects. Strong Test automation background with Selenium/Python and HP UFT . Led several software releases in both SDLC and agile environments and is responsible for coaching and mentoring junior staff. Background in IT Tech Support and Web Development have proven to be valuable skill in my testing projects when it comes to troubleshooting issues and knowledge base development.
 
 ## Qualifications
 
