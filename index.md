@@ -47,7 +47,7 @@ ANISH SEBASTIAN
 - Maintains and troubleshoot issues with test environments, data files, and setup issues as it relates to manual testing and automated testing
 - Updates and maintains test automation framework written in VBScript
 - Manages OTCnet Zone, the firms intranet, that is built on Microsoft Office 365 cloud-based platform
-- In-depth knowledge of HP’s ALM tools including HP ALM 11/12 (aka Quality Center)  and HP UFT 12 (aka Quick Test Professional or QTP)
+- In-depth knowledge of HP’s ALM tools including **HP ALM** 11/12 (aka Quality Center)  and **HP UFT** 12 (aka Quick Test Professional or QTP)
 - Prepares test machines using backup images
 - Led migration of HP ALM 11 TO HP ALM 12
 - Actively participated all kinds of Scrum meetings including Daily stand up, Sprint planning meeting, sprint review meeting and retrospective meeting.
@@ -90,7 +90,7 @@ ANISH SEBASTIAN
 
 ## BDD
 
-- familiar with Behavior Driven Development (BDD) and writing the acceptance criteria’s in a feature file using gherkin language
+- familiar with **Behavior Driven Development (BDD)** and writing the acceptance criteria’s in a feature file using gherkin language
 - familiar with creating step defintions from a feature file with behave python test framework
 
 ## Web Service Testing
@@ -102,17 +102,16 @@ ANISH SEBASTIAN
 
 ## CI/CD Tools
 
-in progress of learning Docker/Jenkins
-Executed automated test suites on multiple platforms using SeleniumGrid and Maven scripts.
-Created pom.xml in APACHEMAVEN and run the builds using Continuous Integration tool Jenkins.
-Develop, Maintain and support Continuous Integration framework based on Jenkins
-Expert in implementing automation architecture using Python, PyTest, Java, JUnit, Selenium WebDriver, Jenkins
-Created Docker files and built different containers needed for testing using Docker file generated images
-Used Docker Compose YAML files to bring up Selenium Standalone/Grid related containers for running framework test scripts
-Experience in writing Groovy Scripts for Jenkins pipeline job
-Used Groovy scripts for CI/CD pipeline builds, and actively involved in the entire Pipeline setups and Jenkins configurations
-Provide demo to team on CI/CD pipeline and its features
-Experienced in working with version control systems like GIT and used Source code management client tools like GitBash, GitHub, Git Lab.
+- Executed automated test suites on multiple platforms using SeleniumGrid and Maven scripts.
+- Created pom.xml in APACHEMAVEN and run the builds using Continuous Integration tool Jenkins.
+- Develop, Maintain and support Continuous Integration framework based on Jenkins
+- Expert in implementing automation architecture using Python, PyTest, Java, JUnit, Selenium WebDriver, Jenkins
+- Created **Docker files** and built different containers needed for testing using Docker file generated images
+- Used **Docker Compose** YAML files to bring up Selenium Standalone/Grid related containers for running framework test scripts
+- Experience in writing Groovy Scripts for Jenkins pipeline job
+- Used **Groovy scripts** for CI/CD **pipeline builds**, and actively involved in the entire Pipeline setups and Jenkins configurations
+- Provide demo to team on CI/CD pipeline and its features
+- Experienced in working with version control systems like GIT and used Source code management client tools like GitBash, GitHub, Git Lab.
 
 ## Web Related
 
