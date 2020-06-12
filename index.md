@@ -8,13 +8,11 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 
 - 11 years of experience with system testing methodologies and system or software development life cycle (SDLC)
 - 11 years of federal government consulting experience
-- 8 years of Experience writing Automation Test Scripts using Python with Selenium
+- 8 years of Experience writing Automation Test Scripts using **Python** with **Selenium**
 - Demonstrable experience in writing clean automation code quickly
 - Experience with analyzing and documenting software test results
 - Creative, independent, self-motivated and excited to learn new technologies
-- Experience with designing, implementing, tailoring, and documenting automated test frameworks used on testing projects
-- Experience with writing automated user interface tests, including Selenium, HP UFT
-- 4+ years of experience with developing automated test scripts with industry tools, including Selenium, HP Quick Test Professional and Unified Functional Test
+- Experience with developing ***automated test framework** scripts with industry tools, including Selenium, HP **Unified Functional Test (UFT)**
 - Experience in working closely with development or requirements team to coordinate and test applications
 - Experience with documenting complex workflow and testing procedures
 - Ability to analyze test results, document conclusions and make recommendations as supported by such analysis
@@ -66,7 +64,7 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 
 ## Leadership
 
-- organized and delegated test planning tasks such as test case development, test case peer reviews, and test case finalization tasks to her peers and junior staff. Authored several test plans delivered and received sign off from the Fiscal Service client
+- Organized and delegated test planning tasks such as test case development, test case peer reviews, and test case finalization tasks to peers and junior staff. Authored several test plans delivered and received sign off from the Fiscal Service client
 - During the test execution phase, applied similar tactics for test execution and defect management tasks. Led several daily test status call with the testing, development, requirements, and operations work-streams to review new issues, scope changes, and upcoming deployments. During test execution, coordinated multiple automated stability and regression test executions with the automation test team throughout the release. My efforts resulted in successfully executing all system and regression test cases, and resolution of  defects
 - Led the several sprint closeout meetings with project work-streams and the Fiscal Service client to review the summary of test execution, defects, and user story completion, as well as a live demonstration of the new features of the application implemented in the release. Engaged others on the test team to provide the demonstration. Authored and delivered the Requirements Traceability Matrix (RTM) and the System Test Results Report and received sign-off from the client.
 - Leading several test efforts and kept the test team motivated and on track which resulted in a successful and on schedule test completion. The project team received praise from the Citi development team manager and the OTCnet program manager for their dedication and great work
@@ -89,7 +87,7 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 - Tested compatibility of application for dynamic and static content under various cross browsers using HTML IDs and XPath in Selenium
 - Experienced in designing and implementation of Various Frameworks in Selenium
 - Participate in SCRUM Team meetings, including grooming and planning meetings
-- Wrote Datadriven, Cross Browser automation test cases using PyTest/TestNG frameworks.
+- Wrote Datadriven, **Cross Browser automation test** cases using **PyTest/TestNG frameworks**.
 
 ## BDD
 
