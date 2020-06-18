@@ -109,10 +109,10 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 - Expert in implementing automation architecture using Python, PyTest, Java, JUnit, Selenium WebDriver, Jenkins
 - Created **Docker files** and built different containers needed for testing using Docker file generated images
 - Used **Docker Compose** YAML files to bring up Selenium Standalone/Grid related containers for running framework test scripts
-- Experience in writing Groovy Scripts for Jenkins pipeline job
-- Used **Groovy scripts** for CI/CD **pipeline builds**, and actively involved in the entire Pipeline setups and Jenkins configurations
+- Used **Groovy scripts** for CI/CD **pipeline builds**, and authored  **Jenkinsfile** to control entire Pipeline setup via SCM
 - Provide demo to team on CI/CD pipeline and its features
-- Experienced in working with version control systems like GIT and used Source code management client tools like GitBash, GitHub, Git Lab.
+- Experienced in working with version control systems: Git/GitHub
+- Used jenkins **embeddable build plugin** icons to show build status in Github repo
 
 ## Web Related
 
@@ -143,4 +143,10 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 - Lead migration of requirements from JAMA software to JIRA
 - Assisted with customization of JIRA workflows , fields , screens , permissions , notifications and issue type schemes.
 - Creates and maintains filters and dashbaords for easy acess to data during release testing
+
+## Clound Technlogies
+
+- Knowledge and hands-on experience with service offerings from **Amazon Web Services (AWS)**
+- Hands on experience in creating EC2 instances, VPC, S3 Buckets 
+- Created Jenkins EC2 Instances for running Selenium automation scripts 
 
