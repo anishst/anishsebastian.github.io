@@ -113,6 +113,7 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 - Provide demo to team on CI/CD pipeline and its features
 - Experienced in working with version control systems: Git/GitHub
 - Used jenkins **embeddable build plugin** icons to show build status in Github repo
+- Used Office 365 Connector plugin to push customized Jenkins build updates to Microsoft Teams.
 
 ## Web Related
 
@@ -133,8 +134,8 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 - Provide technical writing support by authoring documents, including user guides, software test cases, and software test plans.
 
 ## SharePoint
-
-- Provided training for SharePoint functionalities to ensure positive initial experience.
+- Manages users and document libraries in Office 365 SharePoint platform
+- Provided training for SharePoint functionality to ensure positive initial experience.
 - Assisted with the integration of MS Project 2007 Server with MS Office SharePoint Server 2007
 - As a SharePoint admin, customized and configured several portal sites for various projects. Created custom lists and web parts for different teams; Maintained security and permissions to control access to SharePoint for both intranet and extranet users. Created and maintained knowledgebase documentation for MOSS maintenance and training manuals.
 
@@ -144,7 +145,7 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 - Assisted with customization of JIRA workflows , fields , screens , permissions , notifications and issue type schemes.
 - Creates and maintains filters and dashbaords for easy acess to data during release testing
 
-## Clound Technlogies
+## Cloud Technlogies
 
 - Knowledge and hands-on experience with service offerings from **Amazon Web Services (AWS)**
 - Hands on experience in creating EC2 instances, VPC, S3 Buckets 
