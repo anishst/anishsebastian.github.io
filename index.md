@@ -74,9 +74,10 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 
 - Designed and built automated test frameworks and test suites using Python, Selenium and other automated test frameworks.
 - Develops new automated test cases and enhances current test suite as new functionality is built.
+- Automated SOAP/REST Web services tests using Python **requests** library and ran test scripts using Docker images via Jenkins pipeline
 - Performs testing and code reviews of proposed changes by fellow automation testers.
 - Conducts Cross-browser Testing including Chrome, Firefox, Edge and mobile browsers.
-- Wrote python script to parse excel/xml/text files using regular expression to search for requirements
+- Wrote Python script to parse excel/xml/text files using regular expression to search for requirements
 - Trains/mentors other team members to use automated testing tools.
 - Develop, execute, and maintain test scripts that cover Smoke, Functional, Regression and Performance testing. Communicate Test results and Issues with details to relevant team members.
 - Maintain and update the Test Scripts, coordinating with the Scrum team to keep them current, and effectively test new or updated features and products.
@@ -103,17 +104,16 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 
 ## CI/CD Tools
 
+- Created **Docker files** and built different containers needed for testing using Docker file generated images
+- Used **Docker Compose** YAML files to bring up Selenium Standalone/Grid related containers for running framework test scripts
+- Used **Groovy scripts** for CI/CD **pipeline builds**, and actively involved in the entire Pipeline setups and Jenkins configurations
 - Executed automated test suites on multiple platforms using SeleniumGrid and Maven scripts.
 - Created pom.xml in APACHEMAVEN and run the builds using Continuous Integration tool Jenkins.
 - Develop, Maintain and support Continuous Integration framework based on Jenkins
 - Expert in implementing automation architecture using Python, PyTest, Java, JUnit, Selenium WebDriver, Jenkins
-- Created **Docker files** and built different containers needed for testing using Docker file generated images
-- Used **Docker Compose** YAML files to bring up Selenium Standalone/Grid related containers for running framework test scripts
-- Used **Groovy scripts** for CI/CD **pipeline builds**, and authored  **Jenkinsfile** to control entire Pipeline setup via SCM
+- Experience in writing Groovy Scripts for Jenkins pipeline job
 - Provide demo to team on CI/CD pipeline and its features
-- Experienced in working with version control systems: Git/GitHub
-- Used jenkins **embeddable build plugin** icons to show build status in Github repo
-- Used Office 365 Connector plugin to push customized Jenkins build updates to Microsoft Teams.
+- Experienced in working with version control systems like GIT and used Source code management client tools like GitBash, GitHub, Git Lab.
 
 ## Web Related
 
