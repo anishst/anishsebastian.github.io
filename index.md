@@ -15,6 +15,7 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 - Experience with developing ***automated test framework** scripts with industry tools, including Selenium, HP **Unified Functional Test (UFT)**
 - Experience in working closely with development or requirements team to coordinate and test applications
 - Experience with documenting complex workflow and testing procedures
+- Experience with OS Shell Scripting (Windows PowerShell, Linux Shell)
 - Ability to analyze test results, document conclusions and make recommendations as supported by such analysis
 - Ability to verify that each functional component of the software project follows a defined process which is in conformance with contractual requirements
 - Ability to adapt to dynamic, fast-paced environments
