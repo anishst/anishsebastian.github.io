@@ -2,13 +2,13 @@ ANISH SEBASTIAN
 -------------------------
 ## Summary
 
-Senior Software Tester with over 11 years of experience in manual and automated testing on federal client projects. Strong Test automation background with Selenium/Python and HP UFT . Led several software releases in both SDLC and agile environments and is responsible for coaching and mentoring junior staff. Background in IT Tech Support and Web Development have proven to be valuable skill in my testing projects when it comes to troubleshooting issues and knowledge base development.
+Senior Software Tester with over 12 years of experience in manual and automated testing on federal client projects. Strong Test automation background with Selenium/Python and HP UFT . Led several software releases in both SDLC and agile environments and is responsible for coaching and mentoring junior staff. Background in IT Tech Support and Web Development have proven to be valuable skill in my testing projects when it comes to troubleshooting issues and knowledge base development.
 
 ## Qualifications
 
-- 11 years of experience with system testing methodologies and system or software development life cycle (SDLC)
-- 11 years of federal government consulting experience
-- 8 years of Experience writing Automation Test Scripts using **Python** with **Selenium**
+- 12 years of experience with system testing methodologies and system or software development life cycle (SDLC)
+- 12 years of federal government consulting experience
+- 9 years of Experience writing Automation Test Scripts using **Python** with **Selenium**
 - Demonstrable experience in writing clean automation code quickly
 - Experience with analyzing and documenting software test results
 - Creative, independent, self-motivated and excited to learn new technologies
@@ -71,9 +71,10 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 - Leading several test efforts and kept the test team motivated and on track which resulted in a successful and on schedule test completion. The project team received praise from the Citi development team manager and the OTCnet program manager for their dedication and great work
 - Lead automation team to implement automation framework suing Python Selenium framework and running using Jenkins and pipeline scripts
 
-## Python/Selnium Related Duties:
+## Python/Selenium Related Duties:
 
 - Designed and built automated test frameworks and test suites using Python, Selenium and other automated test frameworks.
+- Designed and built **GUI application using Python Tkinter** to make it easy for manual testers to run Selenium automation scripts 
 - Develops new automated test cases and enhances current test suite as new functionality is built.
 - Automated SOAP/REST Web services tests using Python **requests** library and ran test scripts using Docker images via Jenkins pipeline
 - Performs testing and code reviews of proposed changes by fellow automation testers.
@@ -146,7 +147,7 @@ Senior Software Tester with over 11 years of experience in manual and automated 
 - Assisted with customization of JIRA workflows , fields , screens , permissions , notifications and issue type schemes.
 - Creates and maintains filters and dashbaords for easy acess to data during release testing
 
-## Cloud Technlogies
+## Cloud Technologies
 
 - Knowledge and hands-on experience with service offerings from **Amazon Web Services (AWS)**
 - Hands on experience in creating EC2 instances, VPC, S3 Buckets 
