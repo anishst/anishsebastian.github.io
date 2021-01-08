@@ -10,7 +10,7 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 
 - 12 years of experience with system testing methodologies and system or software development life cycle (SDLC)
 - 12 years of federal government consulting experience
-- 9 years of Experience writing **Selenium** Automation Test Scripts using **Python** 
+- 9 years of Experience writing [**Selenium**](https://www.selenium.dev/) Automation Test Scripts using [**Python**](https://www.python.org/) 
 - Demonstrable experience in writing clean automation code quickly
 - Experience with analyzing and documenting software test results
 - Creative, independent, self-motivated and excited to learn new technologies
@@ -124,7 +124,7 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 
 - Conducts SOAP API testing using SoapUI tool
 - Crated several test suites and used property transfer to pass values between test cases
-- Familiar with using **Postman** for REST/SOAP API testing.
+- Familiar with using [**Postman**](https://www.postman.com/) for REST/SOAP API testing.
 - Automated SOAP API tests using Python **requests library**
 - Created Jenkins pipeline scripts to run SOAP API tests in custom **Docker containers** 
 
@@ -141,7 +141,7 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 - Experience in writing Groovy Scripts for Jenkins pipeline job
 - Provide demo to team on CI/CD pipeline and its features
 - Experienced in working with version control systems like GIT and used Source code management client tools like GitBash, GitHub, Git Lab.
-
+- Setup [**SonarCube**](https://docs.sonarqube.org/latest/) locally and in Docker containers to run code analysis against Python code
 
 ### Web Development
 
