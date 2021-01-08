@@ -12,7 +12,7 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 - Demonstrable experience in writing clean automation code quickly
 - Experience with analyzing and documenting software test results
 - Creative, independent, self-motivated and excited to learn new technologies
-- Experience with developing ***automated test framework** scripts with industry tools, including Selenium, HP **Unified Functional Test (UFT)**
+- Experience with developing **automated test framework** scripts with industry tools, including Selenium, HP **Unified Functional Test (UFT)**
 - Experience in working closely with development or requirements team to coordinate and test applications
 - Experience with documenting complex workflow and testing procedures
 - Experience with OS Shell Scripting (Windows PowerShell, Linux Shell)
@@ -71,7 +71,7 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 - Leading several test efforts and kept the test team motivated and on track which resulted in a successful and on schedule test completion. The project team received praise from the Citi development team manager and the OTCnet program manager for their dedication and great work
 - Lead automation team to implement automation framework suing Python Selenium framework and running using Jenkins and pipeline scripts
 
-## Python/Selenium Related Duties:
+## Automation with Python Selenium
 
 - Designed and built automated test frameworks and test suites using Python, Selenium and other automated test frameworks.
 - Designed and built **GUI application using Python Tkinter** to make it easy for manual testers to run Selenium automation scripts 
@@ -95,20 +95,22 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 ## BDD
 
 - familiar with **Behavior Driven Development (BDD)** and writing the acceptance criteria’s in a feature file using gherkin language
-- familiar with creating step defintions from a feature file with behave python test framework
+- familiar with creating step definitions from a feature file with behave python test framework
 
 ## Web Service Testing
 
 - Conducts SOAP API testing using SoapUI tool
 - Crated several test suites and used property transfer to pass values between test cases
-- Familiar with Postman for rest service API testing.
-
+- Familiar with using **Postman** for REST/SOAP API testing.
+- Automated SOAP API tests using Python **requests library**
+- Created Jenkins pipeline scripts to run SOAP API tests in custom **Docker containers** 
 
 ## CI/CD Tools
 
 - Created **Docker files** and built different containers needed for testing using Docker file generated images
 - Used **Docker Compose** YAML files to bring up Selenium Standalone/Grid related containers for running framework test scripts
 - Used **Groovy scripts** for CI/CD **pipeline builds**, and actively involved in the entire Pipeline setups and Jenkins configurations
+- Created Jenkins pipeline scripts to run SOAP API tests in custom **Docker containers** 
 - Executed automated test suites on multiple platforms using SeleniumGrid and Maven scripts.
 - Created pom.xml in APACHEMAVEN and run the builds using Continuous Integration tool Jenkins.
 - Develop, Maintain and support Continuous Integration framework based on Jenkins
@@ -136,6 +138,7 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 - Provide technical writing support by authoring documents, including user guides, software test cases, and software test plans.
 
 ## SharePoint
+
 - Manages users and document libraries in Office 365 SharePoint platform
 - Provided training for SharePoint functionality to ensure positive initial experience.
 - Assisted with the integration of MS Project 2007 Server with MS Office SharePoint Server 2007
