@@ -1,14 +1,16 @@
-ANISH SEBASTIAN
--------------------------
+# ANISH SEBASTIAN
+
 ## Summary
 
 Senior Software Tester with over 12 years of experience in manual and automated testing on federal client projects. Strong Test automation background with Selenium/Python and HP UFT . Led several software releases in both SDLC and agile environments and is responsible for coaching and mentoring junior staff. Background in IT Tech Support and Web Development have proven to be valuable skill in my testing projects when it comes to troubleshooting issues and knowledge base development.
+
+[LinkedIn Profle](https://www.linkedin.com/in/anishst/)
 
 ## Qualifications
 
 - 12 years of experience with system testing methodologies and system or software development life cycle (SDLC)
 - 12 years of federal government consulting experience
-- 9 years of Experience writing Automation Test Scripts using **Python** with **Selenium**
+- 9 years of Experience writing **Selenium** Automation Test Scripts using **Python** 
 - Demonstrable experience in writing clean automation code quickly
 - Experience with analyzing and documenting software test results
 - Creative, independent, self-motivated and excited to learn new technologies
@@ -71,7 +73,32 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 - Leading several test efforts and kept the test team motivated and on track which resulted in a successful and on schedule test completion. The project team received praise from the Citi development team manager and the OTCnet program manager for their dedication and great work
 - Lead automation team to implement automation framework suing Python Selenium framework and running using Jenkins and pipeline scripts
 
-## Automation with Python Selenium
+
+## Experience By Domain 
+
+### Manual Testing
+
+- Experience in SDLC/Aglie project environments
+- Review user application system requirements documentation to design, define, and document unit and application test plans, transform test plans into test scripts, and execute scripts
+- Establish meetings, create schedules, and reports and analysis as needed for the project
+- Performs below types of testing:
+    - Stability/Smoke
+    - Functional
+    - System Integration Tests (SIT)
+    - Business End-to-End
+    - User Interface
+    - Accessibility (W3C/508)
+    - Backend Database testing 
+    - API Tests (using SoapUI tool)
+    - User Acceptance Testing (UAT)
+    - ad-hoc and exploratory tests
+- Develop test data to be used in performing required tests
+- Responsible for coaching and reviewing the work of lower level technical staff.
+- Identifies gaps in documentation, function test coverage and knowledge; recommends corrective actions
+- Communicate with Project Managers, Developers, and Business Leads to ensure all are fully informed of testing status and application deviations from documented user requirement
+- Provide technical writing support by authoring documents, including user guides, software test cases, and software test plans.
+
+### Automation with Python Selenium
 
 - Designed and built automated test frameworks and test suites using Python, Selenium and other automated test frameworks.
 - Designed and built **GUI application using Python Tkinter** to make it easy for manual testers to run Selenium automation scripts 
@@ -92,12 +119,8 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 - Participate in SCRUM Team meetings, including grooming and planning meetings
 - Wrote Datadriven, **Cross Browser automation test** cases using **PyTest/TestNG frameworks**.
 
-## BDD
 
-- familiar with **Behavior Driven Development (BDD)** and writing the acceptance criteria’s in a feature file using gherkin language
-- familiar with creating step definitions from a feature file with behave python test framework
-
-## Web Service Testing
+### Web Service Testing
 
 - Conducts SOAP API testing using SoapUI tool
 - Crated several test suites and used property transfer to pass values between test cases
@@ -105,7 +128,7 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 - Automated SOAP API tests using Python **requests library**
 - Created Jenkins pipeline scripts to run SOAP API tests in custom **Docker containers** 
 
-## CI/CD Tools
+### CI/CD Tools
 
 - Created **Docker files** and built different containers needed for testing using Docker file generated images
 - Used **Docker Compose** YAML files to bring up Selenium Standalone/Grid related containers for running framework test scripts
@@ -119,40 +142,46 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 - Provide demo to team on CI/CD pipeline and its features
 - Experienced in working with version control systems like GIT and used Source code management client tools like GitBash, GitHub, Git Lab.
 
-## Web Related
 
-- Experience with creating front-end applications using JavaScript/JQuery, HTML5, and CSS3
-- Experience with developing applications or services that read, write, and store data from relational databases
-- Experience with Flask web framework
+### Web Development
 
-## Duties
+- Experience with creating web pages using:
+    - HTML5/CSS3
+    - JavaScript/JQuery
+    - Bootstrap
+- Experience with full stack development using **Flask web framework**:
+    - created small applications (blogs/knowledge base) using relational/non-relational databases like SQLite, MongoDB.
+    - built and deployed Flask Application Using Docker containers
+    - Used **SQLAlchemy** Object-Relational Mapper (ORM) to peform CRUD operations 
+    - Used **WTForms** forms validation and rendering library to render forms in **Jinja** templates
+    - Familiar with implementing **Flask-Login** library for user session management for Flask app
 
-- Review user application system requirements documentation to design, define, and document unit and application test plans, transform test plans into test scripts, and execute scripts
-- Establish meetings, create schedules, and reports and analysis as needed for the project
-- Develop test data to be used in performing required tests
-- Responsible for coaching and reviewing the work of lower level technical staff.
-- Identifies gaps in documentation, function  test coverage and knowledge; recommends corrective actions
-- Communicate with Project Managers, Developers, and Business Leads to ensure all are fully informed of testing status and application deviations from documented user requirement
-- Champion the implementation of test automation practices, including the development of the test automation framework.
-- Train junior staff on usage of framework
-- Provide technical writing support by authoring documents, including user guides, software test cases, and software test plans.
+### BDD
 
-## SharePoint
+- familiar with **Behavior Driven Development (BDD)** and writing the acceptance criteria’s in a feature file using gherkin language
+- familiar with creating step definitions from a feature file with behave python test framework
+
+### SharePoint
 
 - Manages users and document libraries in Office 365 SharePoint platform
 - Provided training for SharePoint functionality to ensure positive initial experience.
 - Assisted with the integration of MS Project 2007 Server with MS Office SharePoint Server 2007
 - As a SharePoint admin, customized and configured several portal sites for various projects. Created custom lists and web parts for different teams; Maintained security and permissions to control access to SharePoint for both intranet and extranet users. Created and maintained knowledgebase documentation for MOSS maintenance and training manuals.
 
-## JIRA
+### JIRA
 
 - Lead migration of requirements from JAMA software to JIRA
 - Assisted with customization of JIRA workflows , fields , screens , permissions , notifications and issue type schemes.
 - Creates and maintains filters and dashbaords for easy acess to data during release testing
 
-## Cloud Technologies
+### Cloud Technologies
 
 - Knowledge and hands-on experience with service offerings from **Amazon Web Services (AWS)**
 - Hands on experience in creating EC2 instances, VPC, S3 Buckets 
 - Created Jenkins EC2 Instances for running Selenium automation scripts 
 
+## Certifications
+
+- CompTIA A+
+- CompTIA Network+
+- Microsoft Certified Professional (MCP)
