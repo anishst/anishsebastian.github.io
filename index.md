@@ -4,7 +4,7 @@
 
 Senior Software Tester with over 12 years of experience in manual and automated testing on federal client projects. Strong Test automation background with Selenium/Python and HP UFT . Led several software releases in both SDLC and agile environments and is responsible for coaching and mentoring junior staff. Background in IT Tech Support and Web Development have proven to be valuable skill in my testing projects when it comes to troubleshooting issues and knowledge base development.
 
-[LinkedIn Profle](https://www.linkedin.com/in/anishst/)
+[LinkedIn Profile](https://www.linkedin.com/in/anishst/)
 
 ## Qualifications
 
@@ -182,6 +182,7 @@ Senior Software Tester with over 12 years of experience in manual and automated 
 
 ## Certifications
 
-- CompTIA A+
-- CompTIA Network+
+- [CompTIA A+ (2005)](https://www.youracclaim.com/earner/earned/badge/175c0354-562f-4870-abf8-3de14768456e)
+- [CompTIA Network+ (2006)](https://www.youracclaim.com/earner/earned/badge/ed646cdb-6605-4b85-8935-563810749e02)
 - Microsoft Certified Professional (MCP)
+- [AWS Certified Cloud Practitioner (2021)](https://www.youracclaim.com/badges/d182f6e8-12ac-4fb0-a652-fab06ca2d18d)
